@@ -1,0 +1,52 @@
+Number of Players:
+2-6
+
+Object of the game:
+Get all the pieces to the end of the board.
+2 – 3 players: Total of 10 pieces.
+4 - 6 players: Total of 6 pieces.
+
+How to Play:
+To begin playing, type in the preferred method of control (mouse or finch) followed by the names of all the players.  (ie. Mouse Alex Alisa Jimmy Jordan or Finch Alex Alisa Jimmy Jordan).  
+
+	With 2 – 3 players: Each player has 10 pieces.  The game starts with 4 stacks, starting from 1, each stack has one more then the last.  The text on the label dictates how many pieces are in the stack.  
+	With 4 – 6 players: Each player has 6 pieces.  The game starts with 3 stacks, starting from 1, each stack has one more then the last.  The text on the label dictates how many pieces are in the stack.  
+
+At the top of the window, the player with the highlighted color indicates that it is their turn.   Choose either the left, middle or right radio button dictating which path to start on.  If no radio button is selected, a window will pop up with a reminder to select a path.  After doing so, select which stack to start with and after selected, the piece will automatically go to the appropriate space.
+
+How to play with the Finch
+1.	How to pick the left, middle or right radio button:
+Hold the finch to the left to move to the left track, right for the right track and centered for the middle track.
+
+2.	How to select a piece:
+Swipe across the Finch’s right sensor to advance the selection or left sensor to go back a selection.  Continue this motion until you have reached the piece that you want to select.
+
+3.	How to select a piece:
+Shake the Finch.
+
+*The color on the finch’s beak represents whose turn it is.
+Note: Black has no color.
+
+Note:
+1.	The rules of the game dictate that you may choose any of your own stacks to start with. You have either four stacks or three stacks or 1,2,3,4 or 1,2,3 respectively depending on the amount of players.
+2.	Each stack height is the amount of spaces you have to move with exceptions of the special spaces (Described below).
+3.	When starting from an initial stack you are moving it onto the board, you may not jump it onto another initial stack.
+4.	You are allowed to jump on top of any piece on the board; this will prevent the pieces under it from moving.
+5.	You may not jump backwards with the exception of one special space.
+
+Special spaces:
+Every time a new board is opened, the special spaces will be put randomly throughout the board.
+- = There are several cases to consider when landing on this special space:
+Case 1: There is already one or more pieces on the –
+•	On the next turn you decide to move this piece, you will move forward obeying the rules of the game.
+
+Case 2: There is one piece on the –
+•	On the next turn you decide to move this piece, you will move it backward one space obeying the rules of the game.
+
++2= This special space acts as if there is already two pieces on this space. Therefore, the stack will automatically be increased by two. On the next turn, move forward by the number of the stack plus two.
+
++ 5 = This special piece acts as if there is already five pieces on this space. Therefore, the stack will automatically be increased by five. On the next turn, move forward by the number of the stack plus five.
+
+Skip Turn = When there are no more possible moves, choose either to skip your turn or move a opponent’s piece.
+
+Upon winning the game, the board will automatically exit.

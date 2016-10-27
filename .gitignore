@@ -1,0 +1,8 @@
+bin/
+build/
+**/CVS/
+dist/
+documents/
+.classpath
+.project
+finch.log
